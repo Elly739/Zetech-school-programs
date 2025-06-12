@@ -1,7 +1,7 @@
 /*
 Author: Okello Elly
 Reg No: BSE-05-0003/2024
-Description: USE OF CLASSES TO CALCULATE VOLUME AND SURFACEAREA OF A CYLINDER
+Description: Using methods to input and display values cleanly from a class
 Date; 12/06/2025
 Version 1
 */
