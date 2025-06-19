@@ -1,3 +1,10 @@
+/*
+Author: Okello Elly
+Reg No: BSE-05-0003/2024
+Description: C++ program demonstrates the use of classes, constructors, and destructors.
+Date: 19/06/2025
+Version 1
+*/
 #include <iostream>
 #include <string>
 using namespace std;
